@@ -1,6 +1,4 @@
-<div align="center">
 # Prensa automatizada
-</div>
 
 ## Descripción
 
