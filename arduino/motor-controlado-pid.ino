@@ -1,3 +1,8 @@
+/*
+Autor: Luis Ignacio Forero Molina
+Este codigo esta basado en el algoritmo creado por  https://www.youtube.com/watch?v=bsB5shP3vls&ab_channel=TheBoredRobot
+*/
+
 //Define pin numbers for motor 
 #define DIR1 4
 #define PWM1 5
