@@ -48,6 +48,7 @@ try:
         if datos_seriales:
             # Formatear los datos
             lista_datos = datos_seriales.split(",")
+            lista_datos = list(filter(None, lista_datos))
             datos_thingspeak["updates"] = formatear_datos(lista_datos)
 
             # Enviar los datos a la API de ThingSpeak
