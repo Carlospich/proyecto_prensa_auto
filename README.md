@@ -1,1 +1,1 @@
-# proyecto_prensa_auto
+Proyecto Prensa Automatización
